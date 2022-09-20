@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "287421023687",
+    "project_id": "flexi-76319",
+    "storage_bucket": "flexi-76319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287421023687:android:b982bf9abbf72564a105e2",
+        "android_client_info": {
+          "package_name": "com.example.flexi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287421023687-9v81ahv78q68i4nheqsdj2q04a5qos78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAawwIpF1uwT7DJPZGU0nkVdFzYasw_uz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287421023687-9v81ahv78q68i4nheqsdj2q04a5qos78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287421023687-f4mh46me4k0crs4agl9uhn9dlrfma08n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flexi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287421023687:android:e29dbe25c03a143fa105e2",
+        "android_client_info": {
+          "package_name": "com.example.flexit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287421023687-sr200pjknpjhggn62nil27r9lj4aco4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flexit",
+            "certificate_hash": "eda3336bb4d0da339443837a67732da457a514ac"
+          }
+        },
+        {
+          "client_id": "287421023687-9v81ahv78q68i4nheqsdj2q04a5qos78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAawwIpF1uwT7DJPZGU0nkVdFzYasw_uz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287421023687-9v81ahv78q68i4nheqsdj2q04a5qos78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287421023687-f4mh46me4k0crs4agl9uhn9dlrfma08n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flexi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287421023687:android:97df9d7ba51b533ca105e2",
+        "android_client_info": {
+          "package_name": "com.ridy.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287421023687-9v81ahv78q68i4nheqsdj2q04a5qos78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAawwIpF1uwT7DJPZGU0nkVdFzYasw_uz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287421023687-9v81ahv78q68i4nheqsdj2q04a5qos78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287421023687-f4mh46me4k0crs4agl9uhn9dlrfma08n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flexi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
